@@ -1,0 +1,80 @@
+<component name="libraryTable">
+  <library name="azure.identity" type="repository">
+    <properties maven-id="com.azure:azure-identity:1.0.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/azure-identity-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-core-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-datatype-jsr310-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-xml-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-module-jaxb-annotations-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.xml.bind-api-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.activation-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax2-api-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woodstox-core-6.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactor-core-3.3.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.26.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/msal4j-0.5.0-preview.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lombok-1.18.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oauth2-oidc-sdk-6.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.mail-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcip-annotations-1.0-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-smart-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/accessors-smart-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-5.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lang-tag-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nimbus-jose-jwt-9.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nanohttpd-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-platform-5.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-5.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/azure-identity-1.0.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-core-1.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-datatype-jsr310-2.10.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.10.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.10.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.10.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-xml-2.10.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-module-jaxb-annotations-2.10.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.xml.bind-api-2.3.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.activation-api-1.2.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax2-api-4.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woodstox-core-6.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactor-core-3.3.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactive-streams-1.0.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.26.Final-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.28-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/msal4j-0.5.0-preview-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lombok-1.18.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oauth2-oidc-sdk-6.14-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.mail-1.6.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcip-annotations-1.0-1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/accessors-smart-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-5.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lang-tag-1.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nimbus-jose-jwt-9.19-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nanohttpd-2.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-platform-5.4.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-5.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
